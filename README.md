@@ -17,6 +17,23 @@ O projeto é composto pelos seguintes notebooks, cada um correspondendo a uma et
 7. **correlation_churn_analysis.ipynb**: Investiga correlações entre variáveis e churn.
 8. **churn_analysis_report.ipynb**: Relatório final com introdução, análises, conclusões, e recomendações.
 
+   ## Tecnologias
+
+As seguintes tecnologias e bibliotecas Python são utilizadas neste projeto:
+
+- **Pandas**: Manipulação e análise de dados em estruturas como DataFrames.
+  ![Pandas Logo](images/pandas_logo.png)
+- **Requests**: Requisições HTTP para carregar dados de URLs.
+  ![Requests Logo](images/requests_logo.png)
+- **Matplotlib**: Criação de visualizações gráficas, como gráficos de barras e dispersão.
+  ![Matplotlib Logo](images/matplotlib_logo.png)
+- **Seaborn**: Visualizações estatísticas avançadas, como mapas de calor e gráficos de distribuição.
+  ![Seaborn Logo](images/seaborn_logo.png)
+- **SciPy**: Cálculos estatísticos, como medidas de assimetria (skewness).
+  ![SciPy Logo](images/scipy_logo.png)
+- **Openpyxl**: Exportação de dados para arquivos Excel.
+  ![Openpyxl Logo](images/openpyxl_logo.png)
+
 ## Pré-requisitos
 
 ### Dependências
