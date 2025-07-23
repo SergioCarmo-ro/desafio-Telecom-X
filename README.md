@@ -23,7 +23,7 @@ O projeto é composto pelos seguintes notebooks, cada um correspondendo a uma et
 As seguintes tecnologias e bibliotecas Python são utilizadas neste projeto:
 
 - **Pandas**: Manipulação e análise de dados em estruturas como DataFrames.
-  ![Pandas Logo](images/pandas_logo.png)
+  ![Pandas Logo]  src="<img alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8te-Q1kTVsUz-I5Is4XWC0HPgiZpkd23xoA&s"
 - **Requests**: Requisições HTTP para carregar dados de URLs.
   ![Requests Logo](images/requests_logo.png)
 - **Matplotlib**: Criação de visualizações gráficas, como gráficos de barras e dispersão.
