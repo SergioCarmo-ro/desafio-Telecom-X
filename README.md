@@ -18,60 +18,22 @@ O projeto é composto pelos seguintes notebooks, cada um correspondendo a uma et
 8. **churn_analysis_report.ipynb**: Relatório final com introdução, análises, conclusões, e recomendações.
 
 
-<p align="left">
+## Tecnologias
 
-### 🤖 Linguagens e Tecnologias
+As seguintes tecnologias e bibliotecas Python são utilizadas neste projeto:
 
-<img 
-    align="left" 
-    alt="PANDAS"
-    title="PANDAS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img class="cover-img__image relative w-full h-full object-cover" src="https://media.licdn.com/dms/image/v2/D4D12AQGI5kWrN-Fk2Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1703437508428?e=2147483647&amp;v=beta&amp;t=94AgNV1lTk6-lICxiUg5aYZPMSDgSzKUSy_lAKa5MQw" fetchpriority="high" data-embed-id="cover-image" alt="Análise de Dados com Pandas: Simplificando a Exploração e Manipulação" tabindex="0">" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img fetchpriority="high" decoding="async" class="aligncenter wp-image-14844 size-full" src="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png" alt="Tutorial do Matplotlib" width="450" height="250" srcset="https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia.png 450w, https://studyopedia.com/wp-content/uploads/2022/12/Matplotlib-featured-image-studyopedia-300x167.png 300w" sizes="(max-width: 450px) 100vw, 450px">" 
-/>
-<img 
-    align="left" 
-    alt="Seaborn" 
-    title="Seaborn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img alt="_imagens/logotipo-wide-lightbg.svg" src="_images/logo-wide-lightbg.svg" width="400px">" 
-/>
-<img 
-    align="left" 
-    alt="Requests"
-    title="Requests" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://requests.readthedocs.io/projects/pt/pt-br/latest/_static/requests-sidebar.png" 
-/>
-<img 
-    align="left" 
-    alt="Json"
-    title="Json" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZxKOt8Mgj9YI5_N2kfmqnmZeKnsgK2zwYUA&s"   
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-</p>
+- **Pandas**: Manipulação e análise de dados em estruturas como DataFrames.
+  ![Pandas Logo](images/pandas_logo.png)
+- **Requests**: Requisições HTTP para carregar dados de URLs.
+  ![Requests Logo](images/requests_logo.png)
+- **Matplotlib**: Criação de visualizações gráficas, como gráficos de barras e dispersão.
+  ![Matplotlib Logo](images/matplotlib_logo.png)
+- **Seaborn**: Visualizações estatísticas avançadas, como mapas de calor e gráficos de distribuição.
+  ![Seaborn Logo](images/seaborn_logo.png)
+- **SciPy**: Cálculos estatísticos, como medidas de assimetria (skewness).
+  ![SciPy Logo](images/scipy_logo.png)
+- **Openpyxl**: Exportação de dados para arquivos Excel.
+  ![Openpyxl Logo](images/openpyxl_logo.png)
 
 ## Pré-requisitos
 
