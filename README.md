@@ -1,6 +1,6 @@
  
 
-# Análise de Evasão de Clientes (Churn) - TelecomX_Data
+# Análise de Evasão de Clientes (Churn) - TelecomX_BR
 
 Este projeto realiza uma análise completa de evasão de clientes (churn) em um dataset de telecomunicações (`TelecomX_Data.json`). O objetivo é limpar os dados, criar uma coluna de contas diárias, realizar análises exploratórias, investigar a distribuição de churn, explorar correlações, e fornecer insights para reduzir a evasão. O projeto está estruturado em Jupyter Notebooks, que podem ser executados no **Google Colab** ou localmente.
 
