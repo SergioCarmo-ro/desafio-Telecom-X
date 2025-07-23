@@ -23,17 +23,11 @@ O projeto é composto pelos seguintes notebooks, cada um correspondendo a uma et
 As seguintes tecnologias e bibliotecas Python são utilizadas neste projeto:
 
 - **Pandas**: Manipulação e análise de dados em estruturas como DataFrames.
-  ![Pandas Logo]  src="<img alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8te-Q1kTVsUz-I5Is4XWC0HPgiZpkd23xoA&s"
 - **Requests**: Requisições HTTP para carregar dados de URLs.
-  ![Requests Logo](images/requests_logo.png)
 - **Matplotlib**: Criação de visualizações gráficas, como gráficos de barras e dispersão.
-  ![Matplotlib Logo](images/matplotlib_logo.png)
 - **Seaborn**: Visualizações estatísticas avançadas, como mapas de calor e gráficos de distribuição.
-  ![Seaborn Logo](images/seaborn_logo.png)
 - **SciPy**: Cálculos estatísticos, como medidas de assimetria (skewness).
-  ![SciPy Logo](images/scipy_logo.png)
 - **Openpyxl**: Exportação de dados para arquivos Excel.
-  ![Openpyxl Logo](images/openpyxl_logo.png)
 
 ## Pré-requisitos
 
