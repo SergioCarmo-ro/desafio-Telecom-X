@@ -208,3 +208,4 @@ Este projeto é de código aberto e está sob a licença MIT (ou ajuste conforme
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato com o responsável pelo projeto ou abra uma issue no repositório.
+                                                                                 Sergio Ademir Rocha
